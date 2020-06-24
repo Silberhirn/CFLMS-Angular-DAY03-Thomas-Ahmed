@@ -1,34 +1,40 @@
 
 export const products = [
  {
-   name: 'Labormaus',
+   name: 'Lab-Rat',
    price: 1,
-   description: 'For testing purposes'
+   description: 'For testing purposes',
+   teaser: "assets/img/labrat.jpg"
  },
  {
-   name: 'rare Snake',
+   name: 'Rare Snake',
    price: 2000,
-   description: 'illegal to have'
+   description: 'Illegal to have',
+   teaser: "assets/img/snake.jpg"
  },
  {
-   name: 'Alligator',
+   name: 'Alligatoah',
    price: 3000,
-   description: 'makes great purses/shoes/wallets'
+   description: 'Makes great purses/shoes/wallets',
+   teaser: "assets/img/alligatoah.jpg"
  },
  {
-   name: 'Gorilla',
+   name: 'Harambe',
    price: 0,
-   description: 'you pay for delivery'
+   description: 'R.I.P',
+   teaser: "assets/img/harambe.jpg"
  },
  {
    name: 'Hamster',
    price: 10,
-   description: 'may die on its first day'
+   description: 'May die on its first day',
+   teaser: "assets/img/hamster.jpg"
  },
   {
    name: 'Komodowaran',
    price: 300,
-   description: 'Drache'
+   description: 'Dragon',
+   teaser: "assets/img/komodo.jpg"
  }
 
 ];
